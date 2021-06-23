@@ -1,23 +1,17 @@
-# ReactJS-Project-Setup
+# Hack Round Front-End
 
 This Repository contains the code to setup the ReactJS Project through Webpack.
 To setup the environment follow the steps shown below:-
 
 1. First clone the Repository in your desktop by adding command in your terminal.
 
-          git clone https://github.com/grovervinayak/ReactJS-Project-Setup.git
-  
-    
-![Image of Cloning](https://user-images.githubusercontent.com/47531194/60335453-99378f00-99bb-11e9-8dde-a54ddd75bf54.PNG)
+          git clone https://github.com/grovervinayak/HackRound-Frontend.git
 
  
 
 2. Then after cloning go to the desired folder by-
            
-          cd ReactJS-Project-Setup
-          
-
- ![Image of CD](https://user-images.githubusercontent.com/47531194/60335451-99378f00-99bb-11e9-8f3c-48a0fc6cf0a9.PNG)
+          cd HackRound-Frontend
  
 
 
